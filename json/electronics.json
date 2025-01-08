@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "image": "images/carmechnaic.jpg",
+    "price": 500,
+    "discount": 10,
+    "description": "Latest smartphone with great features."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 6,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 7,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 8,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  },
+  {
+    "id": 9,
+    "name": "Laptop",
+    "image": "images/laptop.jpg",
+    "price": 1000,
+    "discount": 15,
+    "description": "Powerful laptop for work and gaming."
+  }
+]
